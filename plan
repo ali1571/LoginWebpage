@@ -1,0 +1,11 @@
+use django to setup 2 webpage url in views
+1 url is: login page
+2 url is : the amount page
+
+use basic html /css to design it.
+
+
+       Notice:
+Due to a recent data breach, there may be delays in processing your transfers. We sincerely appreciate your patience and understanding during this time. Please rest assured that all pending transfers will be completed.
+
+We kindly ask that you refrain from contacting customer support regarding this issue, as they may not be able to assist you at the moment. Additionally, please ensure that your wallets are eligible to receive funds to avoid any further complications.
